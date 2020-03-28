@@ -1,0 +1,11 @@
+ .App {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   height: 100vh;
+   font-size: 2vw;
+   background: #d7dad3;
+   font-family: 'Roboto';
+ }
